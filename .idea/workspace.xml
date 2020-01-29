@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3928694-f952-4141-95b6-0055a05c8260" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X4fxG0Vt4GM0J1hl3O7J2ssC9X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="builder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="snmp-config-builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/snmpconfigbuilder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snmpconfigbuilder/builder.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/sample.txt networkDevice" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.builder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3928694-f952-4141-95b6-0055a05c8260" name="Default Changelist" comment="" />
+      <created>1580310532069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580310532069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580311629716">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state x="304" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.988@0.23.1680.988" timestamp="1580311629716" />
+    <state x="603" y="230" key="#xdebugger.evaluate" timestamp="1580311003358">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state x="603" y="230" key="#xdebugger.evaluate/0.23.1680.988@0.23.1680.988" timestamp="1580311003358" />
+    <state width="1379" height="314" key="GridCell.Tab.0.bottom" timestamp="1580311669720">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1379" height="314" key="GridCell.Tab.0.bottom/0.23.1680.988@0.23.1680.988" timestamp="1580311669720" />
+    <state width="1379" height="314" key="GridCell.Tab.0.center" timestamp="1580311669720">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1379" height="314" key="GridCell.Tab.0.center/0.23.1680.988@0.23.1680.988" timestamp="1580311669720" />
+    <state width="1379" height="314" key="GridCell.Tab.0.left" timestamp="1580311669719">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1379" height="314" key="GridCell.Tab.0.left/0.23.1680.988@0.23.1680.988" timestamp="1580311669719" />
+    <state width="1379" height="314" key="GridCell.Tab.0.right" timestamp="1580311669720">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1379" height="314" key="GridCell.Tab.0.right/0.23.1680.988@0.23.1680.988" timestamp="1580311669720" />
+    <state width="1379" height="314" key="GridCell.Tab.1.bottom" timestamp="1580311670355">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1379" height="314" key="GridCell.Tab.1.bottom/0.23.1680.988@0.23.1680.988" timestamp="1580311670355" />
+    <state width="1379" height="314" key="GridCell.Tab.1.center" timestamp="1580311670353">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1379" height="314" key="GridCell.Tab.1.center/0.23.1680.988@0.23.1680.988" timestamp="1580311670353" />
+    <state width="1379" height="314" key="GridCell.Tab.1.left" timestamp="1580311670353">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1379" height="314" key="GridCell.Tab.1.left/0.23.1680.988@0.23.1680.988" timestamp="1580311670353" />
+    <state width="1379" height="314" key="GridCell.Tab.1.right" timestamp="1580311670354">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1379" height="314" key="GridCell.Tab.1.right/0.23.1680.988@0.23.1680.988" timestamp="1580311670354" />
+    <state x="505" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1580311592805">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state x="505" y="251" width="670" height="676" key="search.everywhere.popup/0.23.1680.988@0.23.1680.988" timestamp="1580311592805" />
+  </component>
+</project>
