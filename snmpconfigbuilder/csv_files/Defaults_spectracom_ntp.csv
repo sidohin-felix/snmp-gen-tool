@@ -1,0 +1,15 @@
+OidssSysStaPowerAC ,        .1.3.6.1.4.1.18837.3.2.2.1.1
+OidssSysStaPowerDC ,        .1.3.6.1.4.1.18837.3.2.2.1.2    
+OidssSysStaSyncState ,      .1.3.6.1.4.1.18837.3.2.2.1.5
+OidssSysStaHoldoverState ,  .1.3.6.1.4.1.18837.3.2.2.1.6
+OidssSysStaTfom ,           .1.3.6.1.4.1.18837.3.2.2.1.7
+OidssSysStaMinorAlarm ,     .1.3.6.1.4.1.18837.3.2.2.1.13
+OidssSysStaMajorAlarm ,     .1.3.6.1.4.1.18837.3.2.2.1.14
+OidssGpsRefTimeValid ,      .1.3.6.1.4.1.18837.3.2.2.2.1.1.4
+OidssGpsRef1ppsValid ,      .1.3.6.1.4.1.18837.3.2.2.2.1.1.5
+OidssGpsRefNumSats ,        .1.3.6.1.4.1.18837.3.2.2.2.1.1.8
+OidssGpsRefAntennaState ,   .1.3.6.1.4.1.18837.3.2.2.2.1.1.17
+OidntpSysStaCurrentMode ,   .1.3.6.1.4.1.18837.3.3.2.1
+OidntpSysStaStratum ,       .1.3.6.1.4.1.18837.3.3.2.2
+OidssSysStaEstPhaseError ,  .1.3.6.1.4.1.18837.3.2.2.1.8
+OidssSysStaEstFreqError ,   .1.3.6.1.4.1.18837.3.2.2.1.9
