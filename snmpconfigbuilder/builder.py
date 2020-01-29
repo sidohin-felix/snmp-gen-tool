@@ -12,9 +12,9 @@ def validateArguments(arguments):
 if __name__ == '__main__':
     if(not validateArguments(sys.argv)):
         print("Incorrect arguments - please try again!")
-    inputFile = sys.argv[1]
+    inputDir = sys.argv[1]
     baseModel = sys.argv[2]
-    print("Will now generate a YAML template from file " + inputFile + " with base model " + baseModel)
+    print("Will now generate a YAML template (generator.yml) from directory " + inputDir + " with base model " + baseModel)
     config = []
-    snmpconfigbuilder.configfileloader.loadCSV(inputFile,config)
+    snmpconfigbuilder.configfileloader.loadCSV(inputDir,config)
     if(len(config) == 0): sys.exit(-1)
